@@ -23,7 +23,7 @@ Projeto visa simular uma pequena loja de Pets trazendo alguns produtos e categor
 
 Versões:
 
-*Mobile
-*Desktop
+*Mobile<br>
+*Desktop<br>
 
 OBRIGADO!
