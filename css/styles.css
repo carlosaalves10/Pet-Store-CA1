@@ -10,7 +10,7 @@ body {
     margin: 0px auto;
   }
 
-  @media screen and (max-width: 728px) {
+  @media screen and (max-width: 768px) {
     .container  {
       flex-direction: column;
       width: 90%;
@@ -320,7 +320,7 @@ body {
     position: relative;
   }
 
-  @media screen and (max-width: 728px) {
+  @media screen and (max-width: 768px) {
     .slideshow-arrows {
       display: grid;
     }
@@ -383,7 +383,7 @@ body {
     justify-content: space-between;
   }
 
-  @media screen and (max-width: 728px) {
+  @media screen and (max-width: 768px) {
     .categories__inner {
       width: auto;
     }
@@ -438,7 +438,7 @@ body {
     justify-content: center;
   }
 
-  @media screen and (max-width: 728px) {
+  @media screen and (max-width: 768px) {
     .price-tag {
       width: 20%;
     }
@@ -455,7 +455,7 @@ body {
     display: flex;
   }
 
-  @media screen and (max-width: 728px) {
+  @media screen and (max-width: 768px) {
     .showcase-products {
       flex-direction: column;
       width: auto;
@@ -535,7 +535,7 @@ body {
     border-bottom: 2px solid #FFA200;
   }
 
-  @media screen and (max-width: 728px) {
+  @media screen and (max-width: 768px) {
     .regua {
       flex-direction: column;
       border-bottom: none;
@@ -549,7 +549,7 @@ body {
     height: 30px;
   }
 
-  @media screen and (max-width: 728px) {
+  @media screen and (max-width: 768px) {
     .regua-column {
       margin-bottom: -30px;
     }
@@ -580,7 +580,7 @@ body {
     padding-bottom: 40px;
   }
 
-  @media screen and (max-width: 728px) {
+  @media screen and (max-width: 768px) {
     .newsletter-form {
       flex-direction: column;
       width: auto;
@@ -599,7 +599,7 @@ body {
     box-sizing: border-box;
   }
 
-  @media screen and (max-width: 728px) {
+  @media screen and (max-width: 768px) {
     .newsletter-form input[type=text], input[type=submit] {
       border-top: none;
       border-left: none;
@@ -643,7 +643,7 @@ body {
     font-size: 24px;
   }
 
-  @media screen and (max-width: 728px) {
+  @media screen and (max-width: 768px) {
     .newsletter-title h1 {
       margin-bottom: 40px;
       margin-top: -10px;
@@ -662,7 +662,7 @@ body {
     justify-content: space-between;
   }
 
-  @media screen and (max-width: 728px) {
+  @media screen and (max-width: 768px) {
     .info-section__inner {
      margin-top: 15px;
     }
@@ -731,7 +731,7 @@ body {
     padding: 50px 0;
   }
 
-  @media screen and (max-width: 728px) {
+  @media screen and (max-width: 768px) {
     .info-column {
       display:contents;
     }
@@ -754,7 +754,7 @@ body {
     border-width: 0;
   }
 
-  @media screen and (max-width: 728px) {
+  @media screen and (max-width: 768px) {
     hr {
       display: none;
     }
@@ -770,7 +770,7 @@ body {
     margin-right: auto;
   }
 
-  @media screen and (max-width: 728px) {
+  @media screen and (max-width: 768px) {
     .bottom-section {
       margin-top: 400px;
       margin-bottom: 10px;
@@ -818,13 +818,13 @@ body {
   border: none;
 }
 
-@media screen and (max-width: 728px) {
+@media screen and (max-width: 768px) {
   .btn-rp, .btn-rp2, .btn-rp3, .btn-rp4{
    opacity: 100;
   }
 }
 
-@media screen and (max-width: 728px) {
+@media screen and (max-width: 768px) {
   .about-column p{
     line-height: 4px;
   }
