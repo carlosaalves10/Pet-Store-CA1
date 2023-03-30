@@ -19,6 +19,6 @@ Projeto visa simular uma pequena loja de Pets trazendo alguns produtos e categor
 *contato
 *informações institucionais
 
-[Acessar página](https://https://pet-store-ca.netlify.app)
+[Acessar página](https://pet-store-ca.netlify.app/)
 
 OBRIGADO!
